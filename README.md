@@ -1,8 +1,4 @@
 ### Sérgio Lima
-
-- 🔭 Atualmente programo em PHP
-- 🌱 Estudando vuejs
-
 <div align="center">
   <a href="https://github.com/sergiosslima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiosslima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
